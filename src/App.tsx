@@ -6,6 +6,7 @@ function App() {
         <h1 className="text-3xl font-bold underline m-10">test</h1>
         <div className="w-150 h-20 bg-black flex justify-center items-center">
           <h1 className="text-xl text-white">테스트..</h1>
+          <h2 className="text-3xl text-sky-500">테스트2 by 지혜..</h2>
         </div>
       </div>
     </div>
